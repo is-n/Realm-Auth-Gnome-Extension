@@ -1,0 +1,9 @@
+{
+  "name": "Realm Auth Gnome Extension",
+  "description": "Agree or not to a realm's use of sudo using this extension which prompts the user with a modal dialog",
+  "uuid": "realmauthdialog@citadel.subgraph.com",
+  "shell-version": [
+    "42"
+  ],
+  "version": 1
+}
